@@ -1,0 +1,10 @@
+
+.cell { width: 170px; float: left; padding-bottom: 100px; }
+.portlet { margin: 0 1em 1em 0; }
+.portletHeader { margin: 0.3em; padding-bottom: 4px; padding-left: 0.2em; }
+.portletHeader .ui-icon { float: right; }
+.portletContent { padding: 0.4em; }
+.ui-sortable-placeholder { border: 1px dotted black; visibility: visible !important; height: 50px !important; }
+.ui-sortable-placeholder * { visibility: hidden; }
+.ui-sortable-placeholder2 { border: 1px dotted black; visibility: visible !important; height: 50px !important; }
+.ui-sortable-placeholder2 * { visibility: hidden; }
