@@ -1,2 +1,4 @@
 pyramid
 WebError
+repoze.who
+repoze.whoplugins.zodb
